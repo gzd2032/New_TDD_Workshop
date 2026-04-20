@@ -10,9 +10,8 @@
     "allowImportingTsExtensions": true,
     "outDir": "dist",
     "lib": [ "esnext", "DOM" ],
-    "types": ["reflect-metadata", "jest"],
+    "types": [ "jest"],
     "typeRoots": ["./types", "./node_modules/@types"],
-    "baseUrl": "./",
   },
   "exclude": ["node_modules", "**/*.spec.ts", "**/*.test.ts"],
   "include": ["./src/**/*.tsx", "./src/**/*.ts"]
