@@ -11,7 +11,8 @@ If you get a failure, try `npm install --force`
 ### Running the tests
 `npm run test:unit file_name`
 
-### Starting with the basic refresher 
+### Starting with Typescript Basics, then the Basic refresher
+0_Typescript basics
 1_Basic_refresher - I will walk you through setting up your VScode to do steps 1-14.
 
 
